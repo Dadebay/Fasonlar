@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608829767881",
+    "project_id": "fason-5515e",
+    "storage_bucket": "fason-5515e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608829767881:android:4aa924b417c4c27c998d18",
+        "android_client_info": {
+          "package_name": "com.example.telegram_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0miibm2HSOdWIzSKcftlb9y1ZiqiC_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
